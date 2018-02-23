@@ -10,5 +10,8 @@
   "dependencies": {
     "gatsby": "^1.9.207",
     "gatsby-link": "^1.6.37"
+  },
+  "devDependencies": {
+    "gatsby-plugin-netlify-cms": "^1.0.8"
   }
 }
